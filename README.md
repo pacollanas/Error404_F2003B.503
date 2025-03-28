@@ -4,9 +4,9 @@
 
 **Axel Orellana de León A01284824**
 
-**Iván Ortíz Pliego A0**
+**Iván Ortíz Pliego A01425723**
 
-**Diego Robles Contreras A0**
+**Diego Robles Contreras A01612928**
 
 Video presentación miembros del equipo: https://github.com/pacollanas/Error404_F2003B.503/blob/main/VID-20250327-WA0020.mp4
 
