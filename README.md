@@ -2,6 +2,7 @@
 Video presentación miembros del equipo: https://github.com/pacollanas/Error404_F2003B.503/blob/main/VID-20250327-WA0020.mp4
 
 Enlace a reporte: (Insertar Drive)
+
 **Francisco Javier Llanas Domínguez A01285818**
 
 **Axel**
