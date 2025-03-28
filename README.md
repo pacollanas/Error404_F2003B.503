@@ -2,7 +2,7 @@
 
 **Francisco Javier Llanas Domínguez A01285818**
 
-**Axel**
+**Axel Orellana de León A01284824**
 
 **Iván**
 
