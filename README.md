@@ -16,7 +16,7 @@ Enlace a reporte: (Insertar Drive)
 ![image](https://github.com/user-attachments/assets/50e695b1-27ee-4471-94d4-d4dbca587265)
 
 *<p align="center">*Avance Semana 2*</p>*
-
+En esta semana se comenzó a hacer la Fase 1.
 *<p align="center">*Avance Semana 3*</p>*
 
 *<p align="center">*Avance Semana 4*</p>*
