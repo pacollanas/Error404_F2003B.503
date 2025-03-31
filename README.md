@@ -17,12 +17,12 @@ Enlace a reporte: (Insertar Drive)
 
 *<p align="center">*Avance Semana 2*</p>*
 
-<p align="center">*Avance Semana 3*</p>
+*<p align="center">*Avance Semana 3*</p>*
 
-<p align="center">*Avance Semana 4*</p>
+*<p align="center">*Avance Semana 4*</p>*
 
-<p align="center">*Avance Semana 5*</p>
+*<p align="center">*Avance Semana 5*</p>*
 
-<p align="center">*Avance Semana 6*</p>
+*<p align="center">*Avance Semana 6*</p>*
 
-<p align="center">*Avance Semana 7*</p>
+*<p align="center">*Avance Semana 7*</p>*
