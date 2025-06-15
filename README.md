@@ -23,4 +23,4 @@ Se modeló un sistema PD para el corte de una cortadora rotativa de John Deere, 
 (Para esto, correr el código [producto.py](https://github.com/pacollanas/Error404_F2003B.503/blob/main/producto.py)
 , el cual se tiene que guardar en una carpeta local para posteriormente desde la terminal de Windows llegar a la carpeta donde se guardó, y ejecutar "**streamlit run producto.py**")
 
-Si se quieren ver más simulaciones como lo es la velocidad angular, potencia de corte, diagramas de fase, análisis de Fourier, seguir este enlace:
+Si se quieren ver más simulaciones como lo es la velocidad angular, potencia de corte, diagramas de fase, análisis de Fourier, seguir este enlace: https://colab.research.google.com/drive/166hK5KiZQkb69-FPQvssZ6jCyBEnS4Vh?usp=sharing 
